@@ -11,7 +11,8 @@
 			</form>
 		</div>	
 		<br>
-
+	</section>
+	
 
 <?php
   include_once 'footer.php';
